@@ -1,0 +1,11 @@
+/*
+	Big Picture
+	
+	
+*/
+
+/* Loader */
+
+	body:before, body:after {
+		display: none;
+	}
